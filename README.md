@@ -15,7 +15,7 @@ Ce portfolio détaille mes différentes réalisations techniques, notamment :
 
 ## 🚀 Voir le site
 Mon portfolio est accessible publiquement à cette adresse : 
-[https://theodavid.github.io](https://theodavid.github.io)
+[https://theodavid.portfolio.io](https://theodavid.portfolio.io)
 
 ## 📫 Me contacter
 - **LinkedIn :** []
